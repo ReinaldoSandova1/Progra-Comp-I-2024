@@ -1,0 +1,7 @@
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\bin\Debug\005824Bloque1.exe.config
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\bin\Debug\005824Bloque1.exe
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\bin\Debug\005824Bloque1.pdb
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\obj\Debug\005824Bloque1.csproj.AssemblyReference.cache
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\obj\Debug\005824Bloque1.csproj.CoreCompileInputs.cache
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\obj\Debug\005824Bloque1.exe
+C:\Users\reina\Documents\UGB\Programación Computacional I (ISNP  A1  C2-2024)\progra-comp-I-virtual-2024.git\005824Bloque1\005824Bloque1\005824Bloque1\obj\Debug\005824Bloque1.pdb
