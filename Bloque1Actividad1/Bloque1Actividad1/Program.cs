@@ -14,12 +14,12 @@ namespace Bloque1Actividad1
             while (continuar == "s")
             {
 
-                Console.WriteLine("Guia De Ejercicios");
-                Console.WriteLine("1. Negativo Positivo");
-                Console.WriteLine("2. Tabla de Multiplicar del 1-10");
-                Console.WriteLine("3. Suma Numero Positivos");
-                Console.WriteLine("4. Numeros primos o no primos");
-                Console.WriteLine("5. Calcular el promedio de numeros");
+                Console.WriteLine("Guia De Ejercicios Bloque 1 Actividad 1");
+                Console.WriteLine("1. Ejercicio 1 Negativo Positivo");
+                Console.WriteLine("2. Ejercicio 2 Tabla de Multiplicar del 1-10");
+                Console.WriteLine("3. Ejercicio 3 Suma Numero Positivos");
+                Console.WriteLine("4. Ejercicio 4 Numeros primos o no primos");
+                Console.WriteLine("5. Ejercicio 5 Calcular el promedio de numeros");
                 Console.WriteLine("6. Salir");
 
                 int opcion = int.Parse(Console.ReadLine());
