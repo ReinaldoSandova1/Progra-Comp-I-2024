@@ -96,27 +96,41 @@ namespace Bloque1Actividad1
                 }
                 else if (opcion == 4)
                 {
-                    Console.WriteLine("Determinar si un numero es primo:");
+                    
                     int n = 0;
                     int c = 0;
-                    Console.WriteLine("Ingrese un Numero;");
-                    n = Convert.ToInt32(Console.ReadLine());
-                    for (int i = 1; i < (n + 1); i++)
+                    do
                     {
-                        if (n % i == 0)
+                        Console.WriteLine("Determinar si un numero es primo:");
+                        Console.WriteLine("Ingrese un Numero (0 para salir):");
+                        n = Convert.ToInt32(Console.ReadLine());
+
+                        if (n == 0)
                         {
-                            c++;
+                            Console.WriteLine("Saliendo del programa...");
+                            break;
                         }
-                    }
-                    if (c != 2)
-                    {
-                        Console.WriteLine("No Es Primo");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Es Primo");
-                    }
+
+                        c = 0;
+
+                        for (int i = 1; i < (n + 1); i++)
+                        {
+                            if (n % i == 0)
+                            {
+                                c++;
+                            }
+                        }
+                        if (c != 2)
+                        {
+                            Console.WriteLine("No Es Primo");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Es Primo");
+                        }
+                    }while (n != 0);
                 }
+
                 else if (opcion == 5)
                 {
                     int numero;
