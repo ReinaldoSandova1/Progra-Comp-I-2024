@@ -13,8 +13,9 @@ namespace Bloque1Actividad1
             string continuar = "s";
             while (continuar == "s")
             {
-
+                Console.WriteLine("Universidad Gerardo Barrios");
                 Console.WriteLine("Guia De Ejercicios Bloque 1 Actividad 1");
+                Console.WriteLine("Estudiante Jose Reinaldo Sandoval Romero 005824");
                 Console.WriteLine("1. Ejercicio 1 Negativo Positivo");
                 Console.WriteLine("2. Ejercicio 2 Tabla de Multiplicar del 1-10");
                 Console.WriteLine("3. Ejercicio 3 Suma Numero Positivos");
@@ -96,7 +97,7 @@ namespace Bloque1Actividad1
                 }
                 else if (opcion == 4)
                 {
-
+                    
                     int n = 0;
                     int c = 0;
                     do
@@ -128,7 +129,7 @@ namespace Bloque1Actividad1
                         {
                             Console.WriteLine("Es Primo");
                         }
-                    } while (n != 0);
+                    }while (n != 0);
                 }
 
                 else if (opcion == 5)
